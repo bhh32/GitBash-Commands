@@ -2,10 +2,9 @@
 
 <h1>Git Bash Documentation</h1>
 
-[[_TOC_]]
-
 </center>
 
+<a name="clone" href="#"></a>
 ## Cloning Azure DevOps Remote Repo
 ```BASH
 # Clone Repo w/ the following command
